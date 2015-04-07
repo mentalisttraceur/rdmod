@@ -2,3 +2,7 @@ Quick-and-dirty readme for now:
 
 This is for the Nokia N900 phone. It allows you to view and change the R&D mode
 settings stored in the "CAL area".
+
+P.S. Yes this needs serious refactoring. This was my first real C program and I
+haven't had time to clean up the whole "everything is one giant loop in main()"
+mess yet.
